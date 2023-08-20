@@ -1,0 +1,75 @@
+
+
+
+github : cloud repository for your work
+
+
+# All the learners
+# drag and drop - 
+
+repository - folder (Project SMS)
+branch - sub folder ( Developer, Frontend , Database Team, Production, Testing)
+
+STAR -> Boookmark
+	- If URL is deleted then  no longer access is there
+
+
+FORK -> Taking a copy from someone's github to your OWN github
+
+COMMIT BEHIND -> Master has done some changes and you have not updated it.
+	Solution -> SYNC
+
+COMMIT Ahead -> You has done some changes and Master have not updated it.
+	Solution -> Pull Request
+
+
+Pull Request -> One to One conversation about the changes in the repository
+
+Cloning -> Keeping a copy from github account to local system
+	-> Code -> Download ZIP
+
+Push -> Keeping a copy from local system to github account
+	-> Add File -> Upload Files
+	
+
+
+
+
+
+
+
+# All the Developers
+# coding to achieve it
+
+
+Set up the account : 
+OPEN git bASH
+
+1. git config --global user.name "YourUsername"
+2. git config --global user.email "YourEmail"
+3. git config --global user.password "YourPassword"
+
+4. To Save; 
+		git config --global credential.helper store
+
+5. To check; 
+
+		git config --list --show –origin
+
+Setting with Github Token : (Speific for Mac Users)
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi63_f03f38AhXyZWwGHfGFDuQQFnoECBEQAw&url=https%3A%2F%2Fwww.theserverside.com%2Fblog%2FCoffee-Talk-Java-News-Stories-and-Opinions%2FHow-to-create-a-GitHub-Personal-Access-Token-example&usg=AOvVaw0jTQyWIdIGt3shm_5BEjUu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
